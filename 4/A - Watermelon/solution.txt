@@ -1,0 +1,10 @@
+n=int(input())
+if(n<=2):
+    print("NO")
+else:
+    x=n-2
+    if(x%2==0):
+        print("Yes")
+    else:
+        print("NO")
+    
