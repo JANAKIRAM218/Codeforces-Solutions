@@ -6,19 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 8 |
+| 17 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [games](#games) (2)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (6)
-- [math](#math) (7)
-- [number theory](#number-theory) (7)
+- [math](#math) (9)
+- [number theory](#number-theory) (8)
 - [strings](#strings) (3)
 
 ---
@@ -36,7 +36,9 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.py) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.py) |
+| 1665A | [GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1665/A%20-%20GCD%20vs%20LCM/solution.py) |
 
 ### games
 
@@ -53,6 +55,7 @@
 | 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.cpp) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.py) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.py) |
 
 ### implementation
 
@@ -73,8 +76,10 @@
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.py) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.py) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.py) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.py) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.py) |
+| 1665A | [GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1665/A%20-%20GCD%20vs%20LCM/solution.py) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 
 ### number theory
@@ -85,6 +90,7 @@
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.py) |
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.py) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
+| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.py) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.py) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.py) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
