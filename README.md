@@ -6,102 +6,35 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 8 |
+| 1 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (3)
-- [games](#games) (2)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (6)
-- [math](#math) (9)
-- [number theory](#number-theory) (8)
-- [strings](#strings) (3)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [math](#math) (1)
+- [number theory](#number-theory) (1)
 
 ---
-
-### brute force
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3-64](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
-| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.txt) |
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
-| 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.py) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.py) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.py) |
-| 1665A | [GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1665/A%20-%20GCD%20vs%20LCM/solution.py) |
-
-### games
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.cpp) |
-| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
-
-### greedy
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.txt) |
-| 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.cpp) |
-| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.py) |
-| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
-| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.py) |
-
-### implementation
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
-| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [PyPy 3-64](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
-| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.py) |
-| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [PyPy 3-64](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.txt) |
-| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [PyPy 3-64](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.txt) |
-| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [PyPy 3-64](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.txt) |
-| 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.py) |
-| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.py) |
-| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
-| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.py) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.py) |
-| 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.py) |
-| 1665A | [GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1665/A%20-%20GCD%20vs%20LCM/solution.py) |
-| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.py) |
-| 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.py) |
-| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.py) |
-| 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
-| 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.py) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.py) |
-| 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.py) |
-| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
-
-### strings
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [PyPy 3-64](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.txt) |
-| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
-| 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [PyPy 3-64](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.txt) |
 
 ---
 
