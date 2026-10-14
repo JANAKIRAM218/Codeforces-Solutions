@@ -1,0 +1,7 @@
+n,m=map(int,input().split())
+yrs=0
+while(n<=m):
+    n*=3
+    m*=2
+    yrs+=1 
+print(yrs)
