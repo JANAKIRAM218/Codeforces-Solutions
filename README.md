@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
-- [math](#math) (1)
+- [implementation](#implementation) (1)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
 
 ---
@@ -24,10 +25,17 @@
 |---|---------|------------|----------|
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.py) |
 
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.py) |
 
 ### number theory
