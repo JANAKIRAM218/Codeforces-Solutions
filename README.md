@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 5 |
+| 9 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [implementation](#implementation) (2)
 - [math](#math) (7)
@@ -25,6 +25,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/2290/A%20-%20Three%20Piles/solution.py) |
+| 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.py) |
 
 ### constructive algorithms
 
