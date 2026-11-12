@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 4 |
+| 7 | 4 |
 
 ---
 
@@ -14,8 +14,8 @@
 
 - [constructive algorithms](#constructive-algorithms) (2)
 - [implementation](#implementation) (2)
-- [math](#math) (6)
-- [number theory](#number-theory) (2)
+- [math](#math) (7)
+- [number theory](#number-theory) (3)
 
 ---
 
@@ -39,6 +39,7 @@
 |---|---------|------------|----------|
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/318/A%20-%20Even%20Odds/solution.py) |
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
+| 1238A | [Prime Subtraction](https://codeforces.com/contest/1238/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1238/A%20-%20Prime%20Subtraction/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.py) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.py) |
@@ -48,6 +49,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1238A | [Prime Subtraction](https://codeforces.com/contest/1238/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1238/A%20-%20Prime%20Subtraction/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.py) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.py) |
 
