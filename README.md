@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 6 |
+| 11 | 8 |
 
 ---
 
@@ -14,7 +14,9 @@
 
 - [Uncategorized](#uncategorized) (2)
 - [constructive algorithms](#constructive-algorithms) (2)
-- [implementation](#implementation) (3)
+- [data structures](#data-structures) (1)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (4)
 - [math](#math) (7)
 - [number theory](#number-theory) (3)
 - [strings](#strings) (1)
@@ -35,10 +37,23 @@
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.py) |
 | 1787A | [Exponential Equation](https://codeforces.com/contest/1787/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1787/A%20-%20Exponential%20Equation/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/977/B%20-%20Two-gram/solution.cpp) |
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
