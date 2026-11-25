@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 8 |
+| 12 | 8 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (4)
 - [math](#math) (7)
-- [number theory](#number-theory) (3)
+- [number theory](#number-theory) (4)
 - [strings](#strings) (1)
 
 ---
@@ -74,6 +74,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 235A | [LCM Challenge](https://codeforces.com/contest/235/problem/A) | 1600 | [C++20 (GCC 13-64)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/235/A%20-%20LCM%20Challenge/solution.cpp) |
 | 1238A | [Prime Subtraction](https://codeforces.com/contest/1238/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1238/A%20-%20Prime%20Subtraction/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.py) |
 | 1511B | [GCD Length](https://codeforces.com/contest/1511/problem/B) | 1100 | [Python 3](https://github.com/JANAKIRAM218/Codeforces-Solutions/blob/HEAD/1511/B%20-%20GCD%20Length/solution.py) |
